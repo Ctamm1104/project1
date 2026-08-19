@@ -1,0 +1,33 @@
+.header { /* định dạng cho chữ tên website */ 
+    background-color : #585878 ;
+    color: white;
+    font-family: Arial, sans-serif;
+    font-size: 14px;
+    font-weight: bold; /* in đậm chữ */
+    text-transform : uppercase;
+    margin-top: -8px;   /* Điều chỉnh tùy thuộc vào khoảng trắng mặc định */
+    margin-left: -8px;
+    margin-right: -8px;
+    margin-bottom: 5px;
+
+  /* phần này của chữ */
+    padding-left: 25px;   /* dịch qua trái*/
+    padding-top: 1px; /* khoảng cách tính từ khúc trên tới chữ  */
+    padding-bottom: 1px;  /* cho chữ vào giữa */
+}
+
+.footer{
+    background-color: #5D5D8D;
+    color: white;
+    text-align: center;
+
+    margin-left: -8px;
+    margin-right: -8px;
+    margin-top: 590px;
+
+    padding-top: 5px;
+    padding-bottom: 5px;
+
+    
+}
+
